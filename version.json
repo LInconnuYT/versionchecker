@@ -5,5 +5,7 @@
     "IBoutique": 2.7,
     "IGestionVehicle": 1.1,
     "IShop-LtdBusiness": 1.0,
-    "IShop-GarageBuilder": 1.1
+    "IShop-GarageBuilder": 1.1,
+    "IShop-CarShop": 1.0,
+    "IShop-DrugsBuilder": 1.0
 }
